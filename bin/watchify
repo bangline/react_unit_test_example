@@ -1,0 +1,2 @@
+#!/bin/bash
+./node_modules/.bin/watchify -t reactify --debug app/javascripts/index.js -o app/assets/javascripts/bundle.js

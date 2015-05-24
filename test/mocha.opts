@@ -1,0 +1,4 @@
+--reporter dot
+--recursive
+--harmony
+--compilers jsx:./test/jsx_compiler.js

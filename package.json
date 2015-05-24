@@ -1,0 +1,20 @@
+{
+  "name": "react_unit_test_example",
+  "devDependencies": {
+    "browserify": "^8.1.3",
+    "chai": "^2.1.1",
+    "jsdom": "^3.1.2",
+    "mocha": "^2.1.0",
+    "proxyquire": "^1.4.0",
+    "react-tools": "https://registry.npmjs.org/react-tools/-/react-tools-0.12.2.tgz",
+    "watchify": "^3.1.1",
+    "reactify": "^1.0.0"
+  },
+  "scripts": {
+    "test": "./node_modules/.bin/mocha"
+  },
+  "dependencies": {
+    "jquery": "^2.1.3",
+    "react": "^0.12.2"
+  }
+}
